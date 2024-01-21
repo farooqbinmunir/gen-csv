@@ -1,0 +1,10 @@
+/*	
+	* Gen CSV =========== STYLES
+*/
+.gen_csv_form_group {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 20px;
+	margin-top: 50px;
+}
